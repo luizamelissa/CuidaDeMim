@@ -101,3 +101,5 @@ Para alternar para o **Firebase** (se a integração estiver completa):
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
+
+## Para acessar o site clique no lingue a seguir: https://cuida-de-mim-gamma.vercel.app/
